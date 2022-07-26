@@ -1,4 +1,4 @@
-Hi 👋 My name is Antrow Mano
+Hi 👋 Am Antrow Mano
 ============================
 
 Database Administrator
